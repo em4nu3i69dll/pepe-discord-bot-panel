@@ -85,3 +85,7 @@ Este proyecto corresponde a la **versión completa y comercial de Pepe Dashboard
 
 Cualquier uso no autorizado, redistribución o modificación con fines comerciales **sin permiso expreso del autor** constituye una violación de los términos de uso.
 
+
+### Free Demo Bot
+
+https://github.com/em4nu3i69dll/pepe-discord-bot-panel-demo
