@@ -107,3 +107,7 @@ Cualquier uso no autorizado, redistribución o modificación con fines comercial
 ### Free Demo Bot
 
 https://github.com/em4nu3i69dll/pepe-discord-bot-panel-demo
+
+### Web 
+
+https://pepe.em4nu3l69dll.dev/login
